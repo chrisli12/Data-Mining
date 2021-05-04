@@ -1,0 +1,1024 @@
+
+PUBLISHER                                LANGUAGE             GENRE                PERCENTAGE
+---------------------------------------- -------------------- -------------------- ----------
+Deep Thoughts                            Arabic               Historical               0.0007
+Deep Thoughts                            Arabic               Multi-Cultural           0.0005
+Deep Thoughts                            Arabic               Mystery                  0.0007
+Deep Thoughts                            Arabic               Poetry                   0.0018
+Deep Thoughts                            Arabic               Religious                0.0015
+Deep Thoughts                            Arabic               Romance                  0.0003
+Deep Thoughts                            Arabic               Science                  0.0011
+Deep Thoughts                            Arabic               -                        0.0068
+Deep Thoughts                            Cantonese            Historical               0.0005
+Deep Thoughts                            Cantonese            Multi-Cultural           0.0007
+Deep Thoughts                            Cantonese            Mystery                  0.0012
+Deep Thoughts                            Cantonese            Poetry                   0.0021
+Deep Thoughts                            Cantonese            Religious                0.0004
+Deep Thoughts                            Cantonese            Romance                  0.0003
+Deep Thoughts                            Cantonese            Science                  0.0011
+Deep Thoughts                            Cantonese            -                        0.0065
+Deep Thoughts                            English              Historical               0.0018
+Deep Thoughts                            English              Multi-Cultural           0.0033
+Deep Thoughts                            English              Mystery                  0.0046
+Deep Thoughts                            English              Poetry                   0.0037
+Deep Thoughts                            English              Religious                0.0019
+Deep Thoughts                            English              Romance                  0.0015
+Deep Thoughts                            English              Science                  0.0034
+Deep Thoughts                            English              -                        0.0205
+Deep Thoughts                            Farsi                Historical               0.0005
+Deep Thoughts                            Farsi                Multi-Cultural           0.0009
+Deep Thoughts                            Farsi                Mystery                  0.0011
+Deep Thoughts                            Farsi                Poetry                   0.0019
+Deep Thoughts                            Farsi                Religious                0.0009
+Deep Thoughts                            Farsi                Romance                  0.0005
+Deep Thoughts                            Farsi                Science                  0.0008
+Deep Thoughts                            Farsi                -                        0.0069
+Deep Thoughts                            French               Historical               0.0010
+Deep Thoughts                            French               Multi-Cultural           0.0012
+Deep Thoughts                            French               Mystery                  0.0032
+Deep Thoughts                            French               Poetry                   0.0066
+Deep Thoughts                            French               Religious                0.0003
+Deep Thoughts                            French               Romance                  0.0026
+Deep Thoughts                            French               Science                  0.0022
+Deep Thoughts                            French               -                        0.0174
+Deep Thoughts                            Hebrew               Historical               0.0007
+Deep Thoughts                            Hebrew               Multi-Cultural           0.0013
+Deep Thoughts                            Hebrew               Mystery                  0.0017
+Deep Thoughts                            Hebrew               Poetry                   0.0022
+Deep Thoughts                            Hebrew               Religious                0.0034
+Deep Thoughts                            Hebrew               Romance                  0.0006
+Deep Thoughts                            Hebrew               Science                  0.0008
+Deep Thoughts                            Hebrew               -                        0.0110
+Deep Thoughts                            Italian              Historical               0.0006
+Deep Thoughts                            Italian              Multi-Cultural           0.0009
+Deep Thoughts                            Italian              Mystery                  0.0023
+Deep Thoughts                            Italian              Poetry                   0.0028
+Deep Thoughts                            Italian              Religious                0.0013
+Deep Thoughts                            Italian              Romance                  0.0008
+Deep Thoughts                            Italian              Science                  0.0016
+Deep Thoughts                            Italian              -                        0.0105
+Deep Thoughts                            Japanese             Historical               0.0006
+Deep Thoughts                            Japanese             Multi-Cultural           0.0007
+Deep Thoughts                            Japanese             Mystery                  0.0011
+Deep Thoughts                            Japanese             Poetry                   0.0032
+Deep Thoughts                            Japanese             Religious                0.0007
+Deep Thoughts                            Japanese             Romance                  0.0007
+Deep Thoughts                            Japanese             Science                  0.0013
+Deep Thoughts                            Japanese             -                        0.0086
+Deep Thoughts                            Korean               Historical               0.0008
+Deep Thoughts                            Korean               Multi-Cultural           0.0005
+Deep Thoughts                            Korean               Mystery                  0.0017
+Deep Thoughts                            Korean               Poetry                   0.0014
+Deep Thoughts                            Korean               Religious                0.0004
+Deep Thoughts                            Korean               Romance                  0.0003
+Deep Thoughts                            Korean               Science                  0.0007
+Deep Thoughts                            Korean               -                        0.0061
+Deep Thoughts                            Mandarin             Historical               0.0010
+Deep Thoughts                            Mandarin             Multi-Cultural           0.0024
+Deep Thoughts                            Mandarin             Mystery                  0.0009
+Deep Thoughts                            Mandarin             Poetry                   0.0018
+Deep Thoughts                            Mandarin             Religious                0.0005
+Deep Thoughts                            Mandarin             Romance                  0.0002
+Deep Thoughts                            Mandarin             Science                  0.0013
+Deep Thoughts                            Mandarin             -                        0.0083
+Deep Thoughts                            Russian              Historical               0.0012
+Deep Thoughts                            Russian              Multi-Cultural           0.0005
+Deep Thoughts                            Russian              Mystery                  0.0012
+Deep Thoughts                            Russian              Poetry                   0.0050
+Deep Thoughts                            Russian              Religious                0.0007
+Deep Thoughts                            Russian              Romance                  0.0008
+Deep Thoughts                            Russian              Science                  0.0014
+Deep Thoughts                            Russian              -                        0.0111
+Deep Thoughts                            Spanish              Historical               0.0009
+Deep Thoughts                            Spanish              Multi-Cultural           0.0008
+Deep Thoughts                            Spanish              Mystery                  0.0022
+Deep Thoughts                            Spanish              Poetry                   0.0026
+Deep Thoughts                            Spanish              Religious                0.0005
+Deep Thoughts                            Spanish              Romance                  0.0009
+Deep Thoughts                            Spanish              Science                  0.0013
+Deep Thoughts                            Spanish              -                        0.0095
+Deep Thoughts                            Urdu                 Historical               0.0004
+Deep Thoughts                            Urdu                 Multi-Cultural           0.0007
+Deep Thoughts                            Urdu                 Mystery                  0.0008
+Deep Thoughts                            Urdu                 Poetry                   0.0019
+Deep Thoughts                            Urdu                 Religious                0.0007
+Deep Thoughts                            Urdu                 Romance                  0.0004
+Deep Thoughts                            Urdu                 Science                  0.0009
+Deep Thoughts                            Urdu                 -                        0.0062
+Deep Thoughts                            -                    Historical               0.0113
+Deep Thoughts                            -                    Multi-Cultural           0.0149
+Deep Thoughts                            -                    Mystery                  0.0232
+Deep Thoughts                            -                    Poetry                   0.0375
+Deep Thoughts                            -                    Religious                0.0137
+Deep Thoughts                            -                    Romance                  0.0104
+Deep Thoughts                            -                    Science                  0.0184
+Deep Thoughts                            -                    -                        0.1297
+Hawkers                                  Arabic               Fantasy                  0.0020
+Hawkers                                  Arabic               Fiction                  0.0042
+Hawkers                                  Arabic               Historical               0.0025
+Hawkers                                  Arabic               Mystery                  0.0008
+Hawkers                                  Arabic               Romance                  0.0010
+Hawkers                                  Arabic               Science Fiction          0.0013
+Hawkers                                  Arabic               Short Stories            0.0017
+Hawkers                                  Arabic               Western                  0.0006
+Hawkers                                  Arabic               -                        0.0144
+Hawkers                                  Cantonese            Fantasy                  0.0028
+Hawkers                                  Cantonese            Fiction                  0.0034
+Hawkers                                  Cantonese            Historical               0.0020
+Hawkers                                  Cantonese            Mystery                  0.0011
+Hawkers                                  Cantonese            Romance                  0.0008
+Hawkers                                  Cantonese            Science Fiction          0.0015
+Hawkers                                  Cantonese            Short Stories            0.0014
+Hawkers                                  Cantonese            Western                  0.0012
+Hawkers                                  Cantonese            -                        0.0144
+Hawkers                                  English              Fantasy                  0.0096
+Hawkers                                  English              Fiction                  0.0183
+Hawkers                                  English              Historical               0.0060
+Hawkers                                  English              Mystery                  0.0042
+Hawkers                                  English              Romance                  0.0034
+Hawkers                                  English              Science Fiction          0.0050
+Hawkers                                  English              Short Stories            0.0029
+Hawkers                                  English              Western                  0.0100
+Hawkers                                  English              -                        0.0597
+Hawkers                                  Farsi                Fantasy                  0.0021
+Hawkers                                  Farsi                Fiction                  0.0034
+Hawkers                                  Farsi                Historical               0.0019
+Hawkers                                  Farsi                Mystery                  0.0013
+Hawkers                                  Farsi                Romance                  0.0013
+Hawkers                                  Farsi                Science Fiction          0.0014
+Hawkers                                  Farsi                Short Stories            0.0008
+Hawkers                                  Farsi                Western                  0.0006
+Hawkers                                  Farsi                -                        0.0131
+Hawkers                                  French               Fantasy                  0.0045
+Hawkers                                  French               Fiction                  0.0078
+Hawkers                                  French               Historical               0.0040
+Hawkers                                  French               Mystery                  0.0025
+Hawkers                                  French               Romance                  0.0058
+Hawkers                                  French               Science Fiction          0.0017
+Hawkers                                  French               Short Stories            0.0010
+Hawkers                                  French               Western                  0.0027
+Hawkers                                  French               -                        0.0302
+Hawkers                                  Hebrew               Fantasy                  0.0025
+Hawkers                                  Hebrew               Fiction                  0.0032
+Hawkers                                  Hebrew               Historical               0.0030
+Hawkers                                  Hebrew               Mystery                  0.0013
+Hawkers                                  Hebrew               Romance                  0.0009
+Hawkers                                  Hebrew               Science Fiction          0.0015
+Hawkers                                  Hebrew               Short Stories            0.0008
+Hawkers                                  Hebrew               Western                  0.0004
+Hawkers                                  Hebrew               -                        0.0138
+Hawkers                                  Italian              Fantasy                  0.0041
+Hawkers                                  Italian              Fiction                  0.0039
+Hawkers                                  Italian              Historical               0.0022
+Hawkers                                  Italian              Mystery                  0.0018
+Hawkers                                  Italian              Romance                  0.0017
+Hawkers                                  Italian              Science Fiction          0.0014
+Hawkers                                  Italian              Short Stories            0.0010
+Hawkers                                  Italian              Western                  0.0015
+Hawkers                                  Italian              -                        0.0178
+Hawkers                                  Japanese             Fantasy                  0.0028
+Hawkers                                  Japanese             Fiction                  0.0049
+Hawkers                                  Japanese             Historical               0.0022
+Hawkers                                  Japanese             Mystery                  0.0011
+Hawkers                                  Japanese             Romance                  0.0015
+Hawkers                                  Japanese             Science Fiction          0.0037
+Hawkers                                  Japanese             Short Stories            0.0041
+Hawkers                                  Japanese             Western                  0.0014
+Hawkers                                  Japanese             -                        0.0220
+Hawkers                                  Korean               Fantasy                  0.0025
+Hawkers                                  Korean               Fiction                  0.0030
+Hawkers                                  Korean               Historical               0.0018
+Hawkers                                  Korean               Mystery                  0.0011
+Hawkers                                  Korean               Romance                  0.0008
+Hawkers                                  Korean               Science Fiction          0.0029
+Hawkers                                  Korean               Short Stories            0.0010
+Hawkers                                  Korean               Western                  0.0005
+Hawkers                                  Korean               -                        0.0139
+Hawkers                                  Mandarin             Fantasy                  0.0037
+Hawkers                                  Mandarin             Fiction                  0.0081
+Hawkers                                  Mandarin             Historical               0.0031
+Hawkers                                  Mandarin             Mystery                  0.0008
+Hawkers                                  Mandarin             Romance                  0.0006
+Hawkers                                  Mandarin             Science Fiction          0.0020
+Hawkers                                  Mandarin             Short Stories            0.0017
+Hawkers                                  Mandarin             Western                  0.0010
+Hawkers                                  Mandarin             -                        0.0212
+Hawkers                                  Russian              Fantasy                  0.0051
+Hawkers                                  Russian              Fiction                  0.0059
+Hawkers                                  Russian              Historical               0.0046
+Hawkers                                  Russian              Mystery                  0.0010
+Hawkers                                  Russian              Romance                  0.0014
+Hawkers                                  Russian              Science Fiction          0.0024
+Hawkers                                  Russian              Short Stories            0.0013
+Hawkers                                  Russian              Western                  0.0008
+Hawkers                                  Russian              -                        0.0227
+Hawkers                                  Spanish              Fantasy                  0.0061
+Hawkers                                  Spanish              Fiction                  0.0106
+Hawkers                                  Spanish              Historical               0.0027
+Hawkers                                  Spanish              Mystery                  0.0014
+Hawkers                                  Spanish              Romance                  0.0026
+Hawkers                                  Spanish              Science Fiction          0.0020
+Hawkers                                  Spanish              Short Stories            0.0017
+Hawkers                                  Spanish              Western                  0.0044
+Hawkers                                  Spanish              -                        0.0318
+Hawkers                                  Urdu                 Fantasy                  0.0022
+Hawkers                                  Urdu                 Fiction                  0.0046
+Hawkers                                  Urdu                 Historical               0.0019
+Hawkers                                  Urdu                 Mystery                  0.0010
+Hawkers                                  Urdu                 Romance                  0.0009
+Hawkers                                  Urdu                 Science Fiction          0.0016
+Hawkers                                  Urdu                 Short Stories            0.0007
+Hawkers                                  Urdu                 Western                  0.0005
+Hawkers                                  Urdu                 -                        0.0135
+Hawkers                                  -                    Fantasy                  0.0506
+Hawkers                                  -                    Fiction                  0.0817
+Hawkers                                  -                    Historical               0.0383
+Hawkers                                  -                    Mystery                  0.0197
+Hawkers                                  -                    Romance                  0.0234
+Hawkers                                  -                    Science Fiction          0.0288
+Hawkers                                  -                    Short Stories            0.0203
+Hawkers                                  -                    Western                  0.0261
+Hawkers                                  -                    -                        0.2892
+Holier Than Thou                         Arabic               Children's               0.0000
+Holier Than Thou                         Arabic               Multi-Cultural           0.0001
+Holier Than Thou                         Arabic               Poetry                   0.0000
+Holier Than Thou                         Arabic               Religious                0.0003
+Holier Than Thou                         Arabic               -                        0.0005
+Holier Than Thou                         Cantonese            Children's               0.0000
+Holier Than Thou                         Cantonese            Multi-Cultural           0.0001
+Holier Than Thou                         Cantonese            Poetry                   0.0002
+Holier Than Thou                         Cantonese            Religious                0.0000
+Holier Than Thou                         Cantonese            -                        0.0004
+Holier Than Thou                         English              Children's               0.0000
+Holier Than Thou                         English              Multi-Cultural           0.0002
+Holier Than Thou                         English              Poetry                   0.0001
+Holier Than Thou                         English              Religious                0.0004
+Holier Than Thou                         English              -                        0.0008
+Holier Than Thou                         Farsi                Children's               0.0000
+Holier Than Thou                         Farsi                Multi-Cultural           0.0000
+Holier Than Thou                         Farsi                Poetry                   0.0001
+Holier Than Thou                         Farsi                Religious                0.0001
+Holier Than Thou                         Farsi                -                        0.0003
+Holier Than Thou                         French               Children's               0.0000
+Holier Than Thou                         French               Multi-Cultural           0.0001
+Holier Than Thou                         French               Poetry                   0.0001
+Holier Than Thou                         French               Religious                0.0001
+Holier Than Thou                         French               -                        0.0004
+Holier Than Thou                         Hebrew               Children's               0.0000
+Holier Than Thou                         Hebrew               Multi-Cultural           0.0001
+Holier Than Thou                         Hebrew               Poetry                   0.0000
+Holier Than Thou                         Hebrew               Religious                0.0005
+Holier Than Thou                         Hebrew               -                        0.0008
+Holier Than Thou                         Italian              Children's               0.0001
+Holier Than Thou                         Italian              Multi-Cultural           0.0000
+Holier Than Thou                         Italian              Poetry                   0.0001
+Holier Than Thou                         Italian              Religious                0.0001
+Holier Than Thou                         Italian              -                        0.0004
+Holier Than Thou                         Japanese             Children's               0.0001
+Holier Than Thou                         Japanese             Multi-Cultural           0.0000
+Holier Than Thou                         Japanese             Poetry                   0.0001
+Holier Than Thou                         Japanese             Religious                0.0001
+Holier Than Thou                         Japanese             -                        0.0003
+Holier Than Thou                         Korean               Children's               0.0000
+Holier Than Thou                         Korean               Multi-Cultural           0.0000
+Holier Than Thou                         Korean               Poetry                   0.0000
+Holier Than Thou                         Korean               Religious                0.0001
+Holier Than Thou                         Korean               -                        0.0002
+Holier Than Thou                         Mandarin             Children's               0.0000
+Holier Than Thou                         Mandarin             Multi-Cultural           0.0000
+Holier Than Thou                         Mandarin             Poetry                   0.0001
+Holier Than Thou                         Mandarin             Religious                0.0000
+Holier Than Thou                         Mandarin             -                        0.0003
+Holier Than Thou                         Russian              Children's               0.0000
+Holier Than Thou                         Russian              Multi-Cultural           0.0000
+Holier Than Thou                         Russian              Poetry                   0.0002
+Holier Than Thou                         Russian              Religious                0.0001
+Holier Than Thou                         Russian              -                        0.0004
+Holier Than Thou                         Spanish              Children's               0.0000
+Holier Than Thou                         Spanish              Multi-Cultural           0.0000
+Holier Than Thou                         Spanish              Poetry                   0.0001
+Holier Than Thou                         Spanish              Religious                0.0001
+Holier Than Thou                         Spanish              -                        0.0002
+Holier Than Thou                         Urdu                 Children's               0.0000
+Holier Than Thou                         Urdu                 Multi-Cultural           0.0000
+Holier Than Thou                         Urdu                 Poetry                   0.0001
+Holier Than Thou                         Urdu                 Religious                0.0001
+Holier Than Thou                         Urdu                 -                        0.0003
+Holier Than Thou                         -                    Children's               0.0006
+Holier Than Thou                         -                    Multi-Cultural           0.0010
+Holier Than Thou                         -                    Poetry                   0.0016
+Holier Than Thou                         -                    Religious                0.0024
+Holier Than Thou                         -                    -                        0.0057
+Pi Press                                 Arabic               Education                0.0011
+Pi Press                                 Arabic               Science                  0.0021
+Pi Press                                 Arabic               -                        0.0032
+Pi Press                                 Cantonese            Education                0.0008
+Pi Press                                 Cantonese            Science                  0.0017
+Pi Press                                 Cantonese            -                        0.0025
+Pi Press                                 English              Education                0.0035
+Pi Press                                 English              Science                  0.0071
+Pi Press                                 English              -                        0.0106
+Pi Press                                 Farsi                Education                0.0007
+Pi Press                                 Farsi                Science                  0.0017
+Pi Press                                 Farsi                -                        0.0025
+Pi Press                                 French               Education                0.0019
+Pi Press                                 French               Science                  0.0045
+Pi Press                                 French               -                        0.0065
+Pi Press                                 Hebrew               Education                0.0005
+Pi Press                                 Hebrew               Science                  0.0014
+Pi Press                                 Hebrew               -                        0.0019
+Pi Press                                 Italian              Education                0.0005
+Pi Press                                 Italian              Science                  0.0040
+Pi Press                                 Italian              -                        0.0045
+Pi Press                                 Japanese             Education                0.0006
+Pi Press                                 Japanese             Science                  0.0023
+Pi Press                                 Japanese             -                        0.0029
+Pi Press                                 Korean               Education                0.0014
+Pi Press                                 Korean               Science                  0.0015
+Pi Press                                 Korean               -                        0.0030
+Pi Press                                 Mandarin             Education                0.0009
+Pi Press                                 Mandarin             Science                  0.0022
+Pi Press                                 Mandarin             -                        0.0031
+Pi Press                                 Russian              Education                0.0010
+Pi Press                                 Russian              Science                  0.0031
+Pi Press                                 Russian              -                        0.0041
+Pi Press                                 Spanish              Education                0.0011
+Pi Press                                 Spanish              Science                  0.0024
+Pi Press                                 Spanish              -                        0.0035
+Pi Press                                 Urdu                 Education                0.0006
+Pi Press                                 Urdu                 Science                  0.0021
+Pi Press                                 Urdu                 -                        0.0028
+Pi Press                                 -                    Education                0.0150
+Pi Press                                 -                    Science                  0.0366
+Pi Press                                 -                    -                        0.0516
+Print More                               Arabic               Children's               0.0000
+Print More                               Arabic               Fantasy                  0.0000
+Print More                               Arabic               Historical               0.0000
+Print More                               Arabic               Mystery                  0.0000
+Print More                               Arabic               Religious                0.0000
+Print More                               Arabic               Short Stories            0.0003
+Print More                               Arabic               Travel and Adventure     0.0000
+Print More                               Arabic               -                        0.0005
+Print More                               Cantonese            Children's               0.0000
+Print More                               Cantonese            Fantasy                  0.0000
+Print More                               Cantonese            Historical               0.0000
+Print More                               Cantonese            Religious                0.0000
+Print More                               Cantonese            Romance                  0.0000
+Print More                               Cantonese            Short Stories            0.0002
+Print More                               Cantonese            Travel and Adventure     0.0000
+Print More                               Cantonese            Western                  0.0000
+Print More                               Cantonese            -                        0.0005
+Print More                               English              Children's               0.0002
+Print More                               English              Fantasy                  0.0001
+Print More                               English              Historical               0.0001
+Print More                               English              Mystery                  0.0001
+Print More                               English              Religious                0.0000
+Print More                               English              Romance                  0.0002
+Print More                               English              Short Stories            0.0003
+Print More                               English              Travel and Adventure     0.0001
+Print More                               English              Western                  0.0004
+Print More                               English              -                        0.0017
+Print More                               Farsi                Children's               0.0000
+Print More                               Farsi                Mystery                  0.0000
+Print More                               Farsi                Religious                0.0000
+Print More                               Farsi                Romance                  0.0000
+Print More                               Farsi                Short Stories            0.0002
+Print More                               Farsi                -                        0.0003
+Print More                               French               Children's               0.0000
+Print More                               French               Fantasy                  0.0000
+Print More                               French               Historical               0.0001
+Print More                               French               Mystery                  0.0001
+Print More                               French               Religious                0.0000
+Print More                               French               Romance                  0.0001
+Print More                               French               Short Stories            0.0001
+Print More                               French               Travel and Adventure     0.0000
+Print More                               French               Western                  0.0000
+Print More                               French               -                        0.0007
+Print More                               Hebrew               Children's               0.0000
+Print More                               Hebrew               Fantasy                  0.0000
+Print More                               Hebrew               Historical               0.0000
+Print More                               Hebrew               Mystery                  0.0001
+Print More                               Hebrew               Religious                0.0001
+Print More                               Hebrew               Romance                  0.0000
+Print More                               Hebrew               Short Stories            0.0000
+Print More                               Hebrew               Travel and Adventure     0.0001
+Print More                               Hebrew               Western                  0.0000
+Print More                               Hebrew               -                        0.0007
+Print More                               Italian              Children's               0.0000
+Print More                               Italian              Fantasy                  0.0000
+Print More                               Italian              Historical               0.0000
+Print More                               Italian              Mystery                  0.0000
+Print More                               Italian              Religious                0.0000
+Print More                               Italian              Romance                  0.0000
+Print More                               Italian              Short Stories            0.0001
+Print More                               Italian              Travel and Adventure     0.0002
+Print More                               Italian              Western                  0.0000
+Print More                               Italian              -                        0.0006
+Print More                               Japanese             Children's               0.0001
+Print More                               Japanese             Historical               0.0000
+Print More                               Japanese             Mystery                  0.0000
+Print More                               Japanese             Romance                  0.0000
+Print More                               Japanese             Short Stories            0.0005
+Print More                               Japanese             Travel and Adventure     0.0000
+Print More                               Japanese             Western                  0.0000
+Print More                               Japanese             -                        0.0008
+Print More                               Korean               Children's               0.0000
+Print More                               Korean               Fantasy                  0.0000
+Print More                               Korean               Historical               0.0001
+Print More                               Korean               Mystery                  0.0000
+Print More                               Korean               Religious                0.0000
+Print More                               Korean               Romance                  0.0000
+Print More                               Korean               Short Stories            0.0001
+Print More                               Korean               Travel and Adventure     0.0001
+Print More                               Korean               Western                  0.0000
+Print More                               Korean               -                        0.0005
+Print More                               Mandarin             Children's               0.0000
+Print More                               Mandarin             Fantasy                  0.0000
+Print More                               Mandarin             Historical               0.0000
+Print More                               Mandarin             Short Stories            0.0001
+Print More                               Mandarin             Travel and Adventure     0.0001
+Print More                               Mandarin             Western                  0.0001
+Print More                               Mandarin             -                        0.0005
+Print More                               Russian              Children's               0.0001
+Print More                               Russian              Fantasy                  0.0000
+Print More                               Russian              Historical               0.0000
+Print More                               Russian              Mystery                  0.0000
+Print More                               Russian              Religious                0.0000
+Print More                               Russian              Romance                  0.0001
+Print More                               Russian              Short Stories            0.0001
+Print More                               Russian              Travel and Adventure     0.0001
+Print More                               Russian              Western                  0.0000
+Print More                               Russian              -                        0.0008
+Print More                               Spanish              Children's               0.0000
+Print More                               Spanish              Fantasy                  0.0001
+Print More                               Spanish              Mystery                  0.0000
+Print More                               Spanish              Religious                0.0000
+Print More                               Spanish              Romance                  0.0001
+Print More                               Spanish              Short Stories            0.0001
+Print More                               Spanish              Travel and Adventure     0.0002
+Print More                               Spanish              Western                  0.0000
+Print More                               Spanish              -                        0.0009
+Print More                               Urdu                 Children's               0.0000
+Print More                               Urdu                 Religious                0.0000
+Print More                               Urdu                 Romance                  0.0000
+Print More                               Urdu                 Short Stories            0.0000
+Print More                               Urdu                 Travel and Adventure     0.0001
+Print More                               Urdu                 -                        0.0003
+Print More                               -                    Children's               0.0010
+Print More                               -                    Fantasy                  0.0006
+Print More                               -                    Historical               0.0007
+Print More                               -                    Mystery                  0.0006
+Print More                               -                    Religious                0.0005
+Print More                               -                    Romance                  0.0007
+Print More                               -                    Short Stories            0.0027
+Print More                               -                    Travel and Adventure     0.0015
+Print More                               -                    Western                  0.0008
+Print More                               -                    -                        0.0093
+Random Books                             Arabic               Children's               0.0008
+Random Books                             Arabic               Fantasy                  0.0010
+Random Books                             Arabic               Fiction                  0.0008
+Random Books                             Arabic               Mystery                  0.0010
+Random Books                             Arabic               Poetry                   0.0018
+Random Books                             Arabic               Romance                  0.0019
+Random Books                             Arabic               Science                  0.0011
+Random Books                             Arabic               Science Fiction          0.0011
+Random Books                             Arabic               Travel and Adventure     0.0010
+Random Books                             Arabic               Western                  0.0002
+Random Books                             Arabic               -                        0.0112
+Random Books                             Cantonese            Children's               0.0006
+Random Books                             Cantonese            Fantasy                  0.0010
+Random Books                             Cantonese            Fiction                  0.0007
+Random Books                             Cantonese            Mystery                  0.0021
+Random Books                             Cantonese            Poetry                   0.0024
+Random Books                             Cantonese            Romance                  0.0013
+Random Books                             Cantonese            Science                  0.0012
+Random Books                             Cantonese            Science Fiction          0.0012
+Random Books                             Cantonese            Travel and Adventure     0.0013
+Random Books                             Cantonese            Western                  0.0007
+Random Books                             Cantonese            -                        0.0128
+Random Books                             English              Children's               0.0038
+Random Books                             English              Fantasy                  0.0047
+Random Books                             English              Fiction                  0.0043
+Random Books                             English              Mystery                  0.0060
+Random Books                             English              Poetry                   0.0039
+Random Books                             English              Romance                  0.0082
+Random Books                             English              Science                  0.0033
+Random Books                             English              Science Fiction          0.0054
+Random Books                             English              Travel and Adventure     0.0026
+Random Books                             English              Western                  0.0065
+Random Books                             English              -                        0.0492
+Random Books                             Farsi                Children's               0.0008
+Random Books                             Farsi                Fantasy                  0.0012
+Random Books                             Farsi                Fiction                  0.0008
+Random Books                             Farsi                Mystery                  0.0014
+Random Books                             Farsi                Poetry                   0.0022
+Random Books                             Farsi                Romance                  0.0027
+Random Books                             Farsi                Science                  0.0011
+Random Books                             Farsi                Science Fiction          0.0011
+Random Books                             Farsi                Travel and Adventure     0.0010
+Random Books                             Farsi                Western                  0.0006
+Random Books                             Farsi                -                        0.0132
+Random Books                             French               Children's               0.0011
+Random Books                             French               Fantasy                  0.0017
+Random Books                             French               Fiction                  0.0013
+Random Books                             French               Mystery                  0.0039
+Random Books                             French               Poetry                   0.0069
+Random Books                             French               Romance                  0.0151
+Random Books                             French               Science                  0.0028
+Random Books                             French               Science Fiction          0.0018
+Random Books                             French               Travel and Adventure     0.0013
+Random Books                             French               Western                  0.0018
+Random Books                             French               -                        0.0380
+Random Books                             Hebrew               Children's               0.0006
+Random Books                             Hebrew               Fantasy                  0.0013
+Random Books                             Hebrew               Fiction                  0.0008
+Random Books                             Hebrew               Mystery                  0.0020
+Random Books                             Hebrew               Poetry                   0.0025
+Random Books                             Hebrew               Romance                  0.0031
+Random Books                             Hebrew               Science                  0.0008
+Random Books                             Hebrew               Science Fiction          0.0016
+Random Books                             Hebrew               Travel and Adventure     0.0009
+Random Books                             Hebrew               Western                  0.0002
+Random Books                             Hebrew               -                        0.0141
+Random Books                             Italian              Children's               0.0012
+Random Books                             Italian              Fantasy                  0.0020
+Random Books                             Italian              Fiction                  0.0009
+Random Books                             Italian              Mystery                  0.0027
+Random Books                             Italian              Poetry                   0.0026
+Random Books                             Italian              Romance                  0.0045
+Random Books                             Italian              Science                  0.0021
+Random Books                             Italian              Science Fiction          0.0017
+Random Books                             Italian              Travel and Adventure     0.0020
+Random Books                             Italian              Western                  0.0011
+Random Books                             Italian              -                        0.0212
+Random Books                             Japanese             Children's               0.0016
+Random Books                             Japanese             Fantasy                  0.0012
+Random Books                             Japanese             Fiction                  0.0011
+Random Books                             Japanese             Mystery                  0.0016
+Random Books                             Japanese             Poetry                   0.0040
+Random Books                             Japanese             Romance                  0.0032
+Random Books                             Japanese             Science                  0.0010
+Random Books                             Japanese             Science Fiction          0.0036
+Random Books                             Japanese             Travel and Adventure     0.0014
+Random Books                             Japanese             Western                  0.0008
+Random Books                             Japanese             -                        0.0201
+Random Books                             Korean               Children's               0.0017
+Random Books                             Korean               Fantasy                  0.0011
+Random Books                             Korean               Fiction                  0.0007
+Random Books                             Korean               Mystery                  0.0020
+Random Books                             Korean               Poetry                   0.0013
+Random Books                             Korean               Romance                  0.0020
+Random Books                             Korean               Science                  0.0010
+Random Books                             Korean               Science Fiction          0.0025
+Random Books                             Korean               Travel and Adventure     0.0011
+Random Books                             Korean               Western                  0.0005
+Random Books                             Korean               -                        0.0142
+Random Books                             Mandarin             Children's               0.0005
+Random Books                             Mandarin             Fantasy                  0.0016
+Random Books                             Mandarin             Fiction                  0.0022
+Random Books                             Mandarin             Mystery                  0.0014
+Random Books                             Mandarin             Poetry                   0.0014
+Random Books                             Mandarin             Romance                  0.0017
+Random Books                             Mandarin             Science                  0.0013
+Random Books                             Mandarin             Science Fiction          0.0022
+Random Books                             Mandarin             Travel and Adventure     0.0016
+Random Books                             Mandarin             Western                  0.0005
+Random Books                             Mandarin             -                        0.0147
+Random Books                             Russian              Children's               0.0026
+Random Books                             Russian              Fantasy                  0.0022
+Random Books                             Russian              Fiction                  0.0016
+Random Books                             Russian              Mystery                  0.0015
+Random Books                             Russian              Poetry                   0.0045
+Random Books                             Russian              Romance                  0.0039
+Random Books                             Russian              Science                  0.0015
+Random Books                             Russian              Science Fiction          0.0022
+Random Books                             Russian              Travel and Adventure     0.0018
+Random Books                             Russian              Western                  0.0002
+Random Books                             Russian              -                        0.0223
+Random Books                             Spanish              Children's               0.0008
+Random Books                             Spanish              Fantasy                  0.0036
+Random Books                             Spanish              Fiction                  0.0026
+Random Books                             Spanish              Mystery                  0.0026
+Random Books                             Spanish              Poetry                   0.0024
+Random Books                             Spanish              Romance                  0.0056
+Random Books                             Spanish              Science                  0.0018
+Random Books                             Spanish              Science Fiction          0.0018
+Random Books                             Spanish              Travel and Adventure     0.0045
+Random Books                             Spanish              Western                  0.0029
+Random Books                             Spanish              -                        0.0290
+Random Books                             Urdu                 Children's               0.0011
+Random Books                             Urdu                 Fantasy                  0.0012
+Random Books                             Urdu                 Fiction                  0.0011
+Random Books                             Urdu                 Mystery                  0.0011
+Random Books                             Urdu                 Poetry                   0.0021
+Random Books                             Urdu                 Romance                  0.0025
+Random Books                             Urdu                 Science                  0.0008
+Random Books                             Urdu                 Science Fiction          0.0012
+Random Books                             Urdu                 Travel and Adventure     0.0008
+Random Books                             Urdu                 Western                  0.0002
+Random Books                             Urdu                 -                        0.0124
+Random Books                             -                    Children's               0.0178
+Random Books                             -                    Fantasy                  0.0243
+Random Books                             -                    Fiction                  0.0192
+Random Books                             -                    Mystery                  0.0299
+Random Books                             -                    Poetry                   0.0384
+Random Books                             -                    Romance                  0.0561
+Random Books                             -                    Science                  0.0203
+Random Books                             -                    Science Fiction          0.0280
+Random Books                             -                    Travel and Adventure     0.0218
+Random Books                             -                    Western                  0.0166
+Random Books                             -                    -                        0.2729
+Really Dumb Press                        Arabic               Children's               0.0001
+Really Dumb Press                        Arabic               Fantasy                  0.0001
+Really Dumb Press                        Arabic               Fiction                  0.0000
+Really Dumb Press                        Arabic               Mystery                  0.0001
+Really Dumb Press                        Arabic               Romance                  0.0000
+Really Dumb Press                        Arabic               Science Fiction          0.0001
+Really Dumb Press                        Arabic               Short Stories            0.0003
+Really Dumb Press                        Arabic               Western                  0.0000
+Really Dumb Press                        Arabic               -                        0.0009
+Really Dumb Press                        Cantonese            Children's               0.0001
+Really Dumb Press                        Cantonese            Fantasy                  0.0001
+Really Dumb Press                        Cantonese            Fiction                  0.0000
+Really Dumb Press                        Cantonese            Mystery                  0.0002
+Really Dumb Press                        Cantonese            Romance                  0.0000
+Really Dumb Press                        Cantonese            Science Fiction          0.0001
+Really Dumb Press                        Cantonese            Short Stories            0.0003
+Really Dumb Press                        Cantonese            Western                  0.0000
+Really Dumb Press                        Cantonese            -                        0.0011
+Really Dumb Press                        English              Children's               0.0007
+Really Dumb Press                        English              Fantasy                  0.0003
+Really Dumb Press                        English              Fiction                  0.0004
+Really Dumb Press                        English              Mystery                  0.0007
+Really Dumb Press                        English              Romance                  0.0003
+Really Dumb Press                        English              Science Fiction          0.0006
+Really Dumb Press                        English              Short Stories            0.0003
+Really Dumb Press                        English              Western                  0.0005
+Really Dumb Press                        English              -                        0.0040
+Really Dumb Press                        Farsi                Children's               0.0000
+Really Dumb Press                        Farsi                Fantasy                  0.0001
+Really Dumb Press                        Farsi                Fiction                  0.0000
+Really Dumb Press                        Farsi                Mystery                  0.0001
+Really Dumb Press                        Farsi                Romance                  0.0000
+Really Dumb Press                        Farsi                Science Fiction          0.0001
+Really Dumb Press                        Farsi                Short Stories            0.0001
+Really Dumb Press                        Farsi                Western                  0.0000
+Really Dumb Press                        Farsi                -                        0.0007
+Really Dumb Press                        French               Children's               0.0001
+Really Dumb Press                        French               Fantasy                  0.0001
+Really Dumb Press                        French               Fiction                  0.0002
+Really Dumb Press                        French               Mystery                  0.0002
+Really Dumb Press                        French               Romance                  0.0004
+Really Dumb Press                        French               Science Fiction          0.0002
+Really Dumb Press                        French               Short Stories            0.0002
+Really Dumb Press                        French               Western                  0.0002
+Really Dumb Press                        French               -                        0.0020
+Really Dumb Press                        Hebrew               Children's               0.0000
+Really Dumb Press                        Hebrew               Fantasy                  0.0001
+Really Dumb Press                        Hebrew               Fiction                  0.0001
+Really Dumb Press                        Hebrew               Mystery                  0.0001
+Really Dumb Press                        Hebrew               Romance                  0.0000
+Really Dumb Press                        Hebrew               Science Fiction          0.0003
+Really Dumb Press                        Hebrew               Short Stories            0.0000
+Really Dumb Press                        Hebrew               Western                  0.0000
+Really Dumb Press                        Hebrew               -                        0.0008
+Really Dumb Press                        Italian              Children's               0.0001
+Really Dumb Press                        Italian              Fantasy                  0.0002
+Really Dumb Press                        Italian              Fiction                  0.0001
+Really Dumb Press                        Italian              Mystery                  0.0001
+Really Dumb Press                        Italian              Romance                  0.0001
+Really Dumb Press                        Italian              Science Fiction          0.0001
+Really Dumb Press                        Italian              Short Stories            0.0000
+Really Dumb Press                        Italian              Western                  0.0001
+Really Dumb Press                        Italian              -                        0.0011
+Really Dumb Press                        Japanese             Children's               0.0002
+Really Dumb Press                        Japanese             Fantasy                  0.0001
+Really Dumb Press                        Japanese             Fiction                  0.0001
+Really Dumb Press                        Japanese             Mystery                  0.0001
+Really Dumb Press                        Japanese             Romance                  0.0000
+Really Dumb Press                        Japanese             Science Fiction          0.0006
+Really Dumb Press                        Japanese             Short Stories            0.0009
+Really Dumb Press                        Japanese             Western                  0.0000
+Really Dumb Press                        Japanese             -                        0.0023
+Really Dumb Press                        Korean               Children's               0.0002
+Really Dumb Press                        Korean               Fantasy                  0.0000
+Really Dumb Press                        Korean               Fiction                  0.0000
+Really Dumb Press                        Korean               Mystery                  0.0001
+Really Dumb Press                        Korean               Science Fiction          0.0004
+Really Dumb Press                        Korean               Short Stories            0.0001
+Really Dumb Press                        Korean               Western                  0.0000
+Really Dumb Press                        Korean               -                        0.0011
+Really Dumb Press                        Mandarin             Children's               0.0001
+Really Dumb Press                        Mandarin             Fantasy                  0.0002
+Really Dumb Press                        Mandarin             Fiction                  0.0001
+Really Dumb Press                        Mandarin             Mystery                  0.0001
+Really Dumb Press                        Mandarin             Romance                  0.0000
+Really Dumb Press                        Mandarin             Science Fiction          0.0002
+Really Dumb Press                        Mandarin             Short Stories            0.0002
+Really Dumb Press                        Mandarin             Western                  0.0000
+Really Dumb Press                        Mandarin             -                        0.0012
+Really Dumb Press                        Russian              Children's               0.0003
+Really Dumb Press                        Russian              Fantasy                  0.0002
+Really Dumb Press                        Russian              Fiction                  0.0001
+Really Dumb Press                        Russian              Mystery                  0.0001
+Really Dumb Press                        Russian              Romance                  0.0001
+Really Dumb Press                        Russian              Science Fiction          0.0003
+Really Dumb Press                        Russian              Short Stories            0.0002
+Really Dumb Press                        Russian              Western                  0.0000
+Really Dumb Press                        Russian              -                        0.0015
+Really Dumb Press                        Spanish              Children's               0.0001
+Really Dumb Press                        Spanish              Fantasy                  0.0001
+Really Dumb Press                        Spanish              Fiction                  0.0002
+Really Dumb Press                        Spanish              Mystery                  0.0002
+Really Dumb Press                        Spanish              Romance                  0.0001
+Really Dumb Press                        Spanish              Science Fiction          0.0004
+Really Dumb Press                        Spanish              Short Stories            0.0002
+Really Dumb Press                        Spanish              Western                  0.0001
+Really Dumb Press                        Spanish              -                        0.0018
+Really Dumb Press                        Urdu                 Children's               0.0001
+Really Dumb Press                        Urdu                 Fantasy                  0.0001
+Really Dumb Press                        Urdu                 Fiction                  0.0001
+Really Dumb Press                        Urdu                 Mystery                  0.0000
+Really Dumb Press                        Urdu                 Romance                  0.0000
+Really Dumb Press                        Urdu                 Science Fiction          0.0002
+Really Dumb Press                        Urdu                 Short Stories            0.0000
+Really Dumb Press                        Urdu                 Western                  0.0000
+Really Dumb Press                        Urdu                 -                        0.0009
+Really Dumb Press                        -                    Children's               0.0024
+Really Dumb Press                        -                    Fantasy                  0.0021
+Really Dumb Press                        -                    Fiction                  0.0018
+Really Dumb Press                        -                    Mystery                  0.0027
+Really Dumb Press                        -                    Romance                  0.0017
+Really Dumb Press                        -                    Science Fiction          0.0041
+Really Dumb Press                        -                    Short Stories            0.0032
+Really Dumb Press                        -                    Western                  0.0015
+Really Dumb Press                        -                    -                        0.0198
+Turing Pages Press                       Arabic               Education                0.0111
+Turing Pages Press                       Arabic               Science                  0.0040
+Turing Pages Press                       Arabic               -                        0.0151
+Turing Pages Press                       Cantonese            Education                0.0068
+Turing Pages Press                       Cantonese            Science                  0.0036
+Turing Pages Press                       Cantonese            -                        0.0105
+Turing Pages Press                       English              Education                0.0378
+Turing Pages Press                       English              Science                  0.0113
+Turing Pages Press                       English              -                        0.0491
+Turing Pages Press                       Farsi                Education                0.0081
+Turing Pages Press                       Farsi                Science                  0.0033
+Turing Pages Press                       Farsi                -                        0.0114
+Turing Pages Press                       French               Education                0.0211
+Turing Pages Press                       French               Science                  0.0076
+Turing Pages Press                       French               -                        0.0287
+Turing Pages Press                       Hebrew               Education                0.0060
+Turing Pages Press                       Hebrew               Science                  0.0032
+Turing Pages Press                       Hebrew               -                        0.0092
+Turing Pages Press                       Italian              Education                0.0061
+Turing Pages Press                       Italian              Science                  0.0061
+Turing Pages Press                       Italian              -                        0.0122
+Turing Pages Press                       Japanese             Education                0.0061
+Turing Pages Press                       Japanese             Science                  0.0044
+Turing Pages Press                       Japanese             -                        0.0105
+Turing Pages Press                       Korean               Education                0.0127
+Turing Pages Press                       Korean               Science                  0.0035
+Turing Pages Press                       Korean               -                        0.0163
+Turing Pages Press                       Mandarin             Education                0.0103
+Turing Pages Press                       Mandarin             Science                  0.0044
+Turing Pages Press                       Mandarin             -                        0.0148
+Turing Pages Press                       Russian              Education                0.0086
+Turing Pages Press                       Russian              Science                  0.0048
+Turing Pages Press                       Russian              -                        0.0135
+Turing Pages Press                       Spanish              Education                0.0158
+Turing Pages Press                       Spanish              Science                  0.0054
+Turing Pages Press                       Spanish              -                        0.0212
+Turing Pages Press                       Urdu                 Education                0.0053
+Turing Pages Press                       Urdu                 Science                  0.0029
+Turing Pages Press                       Urdu                 -                        0.0083
+Turing Pages Press                       -                    Education                0.1564
+Turing Pages Press                       -                    Science                  0.0649
+Turing Pages Press                       -                    -                        0.2214
+-                                        Arabic               Children's               0.0010
+-                                        Arabic               Education                0.0122
+-                                        Arabic               Fantasy                  0.0031
+-                                        Arabic               Fiction                  0.0051
+-                                        Arabic               Historical               0.0032
+-                                        Arabic               Multi-Cultural           0.0006
+-                                        Arabic               Mystery                  0.0028
+-                                        Arabic               Poetry                   0.0038
+-                                        Arabic               Religious                0.0019
+-                                        Arabic               Romance                  0.0034
+-                                        Arabic               Science                  0.0083
+-                                        Arabic               Science Fiction          0.0026
+-                                        Arabic               Short Stories            0.0024
+-                                        Arabic               Travel and Adventure     0.0011
+-                                        Arabic               Western                  0.0009
+-                                        Arabic               -                        0.0530
+-                                        Cantonese            Children's               0.0008
+-                                        Cantonese            Education                0.0076
+-                                        Cantonese            Fantasy                  0.0040
+-                                        Cantonese            Fiction                  0.0042
+-                                        Cantonese            Historical               0.0026
+-                                        Cantonese            Multi-Cultural           0.0008
+-                                        Cantonese            Mystery                  0.0047
+-                                        Cantonese            Poetry                   0.0048
+-                                        Cantonese            Religious                0.0006
+-                                        Cantonese            Romance                  0.0026
+-                                        Cantonese            Science                  0.0077
+-                                        Cantonese            Science Fiction          0.0029
+-                                        Cantonese            Short Stories            0.0019
+-                                        Cantonese            Travel and Adventure     0.0013
+-                                        Cantonese            Western                  0.0020
+-                                        Cantonese            -                        0.0491
+-                                        English              Children's               0.0049
+-                                        English              Education                0.0414
+-                                        English              Fantasy                  0.0149
+-                                        English              Fiction                  0.0231
+-                                        English              Historical               0.0080
+-                                        English              Multi-Cultural           0.0035
+-                                        English              Mystery                  0.0157
+-                                        English              Poetry                   0.0078
+-                                        English              Religious                0.0024
+-                                        English              Romance                  0.0138
+-                                        English              Science                  0.0252
+-                                        English              Science Fiction          0.0110
+-                                        English              Short Stories            0.0036
+-                                        English              Travel and Adventure     0.0028
+-                                        English              Western                  0.0174
+-                                        English              -                        0.1960
+-                                        Farsi                Children's               0.0009
+-                                        Farsi                Education                0.0089
+-                                        Farsi                Fantasy                  0.0035
+-                                        Farsi                Fiction                  0.0043
+-                                        Farsi                Historical               0.0025
+-                                        Farsi                Multi-Cultural           0.0009
+-                                        Farsi                Mystery                  0.0041
+-                                        Farsi                Poetry                   0.0043
+-                                        Farsi                Religious                0.0011
+-                                        Farsi                Romance                  0.0046
+-                                        Farsi                Science                  0.0070
+-                                        Farsi                Science Fiction          0.0028
+-                                        Farsi                Short Stories            0.0011
+-                                        Farsi                Travel and Adventure     0.0010
+-                                        Farsi                Western                  0.0013
+-                                        Farsi                -                        0.0487
+-                                        French               Children's               0.0013
+-                                        French               Education                0.0231
+-                                        French               Fantasy                  0.0064
+-                                        French               Fiction                  0.0094
+-                                        French               Historical               0.0052
+-                                        French               Multi-Cultural           0.0014
+-                                        French               Mystery                  0.0101
+-                                        French               Poetry                   0.0137
+-                                        French               Religious                0.0005
+-                                        French               Romance                  0.0241
+-                                        French               Science                  0.0172
+-                                        French               Science Fiction          0.0038
+-                                        French               Short Stories            0.0014
+-                                        French               Travel and Adventure     0.0013
+-                                        French               Western                  0.0048
+-                                        French               -                        0.1241
+-                                        Hebrew               Children's               0.0008
+-                                        Hebrew               Education                0.0065
+-                                        Hebrew               Fantasy                  0.0039
+-                                        Hebrew               Fiction                  0.0041
+-                                        Hebrew               Historical               0.0039
+-                                        Hebrew               Multi-Cultural           0.0015
+-                                        Hebrew               Mystery                  0.0054
+-                                        Hebrew               Poetry                   0.0047
+-                                        Hebrew               Religious                0.0041
+-                                        Hebrew               Romance                  0.0047
+-                                        Hebrew               Science                  0.0062
+-                                        Hebrew               Science Fiction          0.0034
+-                                        Hebrew               Short Stories            0.0009
+-                                        Hebrew               Travel and Adventure     0.0011
+-                                        Hebrew               Western                  0.0007
+-                                        Hebrew               -                        0.0526
+-                                        Italian              Children's               0.0015
+-                                        Italian              Education                0.0066
+-                                        Italian              Fantasy                  0.0064
+-                                        Italian              Fiction                  0.0049
+-                                        Italian              Historical               0.0028
+-                                        Italian              Multi-Cultural           0.0010
+-                                        Italian              Mystery                  0.0071
+-                                        Italian              Poetry                   0.0056
+-                                        Italian              Religious                0.0015
+-                                        Italian              Romance                  0.0072
+-                                        Italian              Science                  0.0140
+-                                        Italian              Science Fiction          0.0033
+-                                        Italian              Short Stories            0.0012
+-                                        Italian              Travel and Adventure     0.0022
+-                                        Italian              Western                  0.0028
+-                                        Italian              -                        0.0686
+-                                        Japanese             Children's               0.0020
+-                                        Japanese             Education                0.0067
+-                                        Japanese             Fantasy                  0.0042
+-                                        Japanese             Fiction                  0.0062
+-                                        Japanese             Historical               0.0028
+-                                        Japanese             Multi-Cultural           0.0007
+-                                        Japanese             Mystery                  0.0041
+-                                        Japanese             Poetry                   0.0073
+-                                        Japanese             Religious                0.0008
+-                                        Japanese             Romance                  0.0057
+-                                        Japanese             Science                  0.0092
+-                                        Japanese             Science Fiction          0.0080
+-                                        Japanese             Short Stories            0.0055
+-                                        Japanese             Travel and Adventure     0.0015
+-                                        Japanese             Western                  0.0024
+-                                        Japanese             -                        0.0678
+-                                        Korean               Children's               0.0020
+-                                        Korean               Education                0.0142
+-                                        Korean               Fantasy                  0.0038
+-                                        Korean               Fiction                  0.0038
+-                                        Korean               Historical               0.0028
+-                                        Korean               Multi-Cultural           0.0006
+-                                        Korean               Mystery                  0.0050
+-                                        Korean               Poetry                   0.0028
+-                                        Korean               Religious                0.0005
+-                                        Korean               Romance                  0.0033
+-                                        Korean               Science                  0.0069
+-                                        Korean               Science Fiction          0.0059
+-                                        Korean               Short Stories            0.0012
+-                                        Korean               Travel and Adventure     0.0012
+-                                        Korean               Western                  0.0010
+-                                        Korean               -                        0.0555
+-                                        Mandarin             Children's               0.0007
+-                                        Mandarin             Education                0.0113
+-                                        Mandarin             Fantasy                  0.0056
+-                                        Mandarin             Fiction                  0.0104
+-                                        Mandarin             Historical               0.0041
+-                                        Mandarin             Multi-Cultural           0.0025
+-                                        Mandarin             Mystery                  0.0032
+-                                        Mandarin             Poetry                   0.0034
+-                                        Mandarin             Religious                0.0006
+-                                        Mandarin             Romance                  0.0027
+-                                        Mandarin             Science                  0.0092
+-                                        Mandarin             Science Fiction          0.0045
+-                                        Mandarin             Short Stories            0.0021
+-                                        Mandarin             Travel and Adventure     0.0017
+-                                        Mandarin             Western                  0.0018
+-                                        Mandarin             -                        0.0643
+-                                        Russian              Children's               0.0032
+-                                        Russian              Education                0.0096
+-                                        Russian              Fantasy                  0.0077
+-                                        Russian              Fiction                  0.0076
+-                                        Russian              Historical               0.0059
+-                                        Russian              Multi-Cultural           0.0006
+-                                        Russian              Mystery                  0.0040
+-                                        Russian              Poetry                   0.0098
+-                                        Russian              Religious                0.0009
+-                                        Russian              Romance                  0.0064
+-                                        Russian              Science                  0.0109
+-                                        Russian              Science Fiction          0.0050
+-                                        Russian              Short Stories            0.0016
+-                                        Russian              Travel and Adventure     0.0019
+-                                        Russian              Western                  0.0011
+-                                        Russian              -                        0.0766
+-                                        Spanish              Children's               0.0010
+-                                        Spanish              Education                0.0169
+-                                        Spanish              Fantasy                  0.0102
+-                                        Spanish              Fiction                  0.0134
+-                                        Spanish              Historical               0.0037
+-                                        Spanish              Multi-Cultural           0.0008
+-                                        Spanish              Mystery                  0.0066
+-                                        Spanish              Poetry                   0.0051
+-                                        Spanish              Religious                0.0006
+-                                        Spanish              Romance                  0.0095
+-                                        Spanish              Science                  0.0112
+-                                        Spanish              Science Fiction          0.0044
+-                                        Spanish              Short Stories            0.0021
+-                                        Spanish              Travel and Adventure     0.0048
+-                                        Spanish              Western                  0.0076
+-                                        Spanish              -                        0.0983
+-                                        Urdu                 Children's               0.0013
+-                                        Urdu                 Education                0.0060
+-                                        Urdu                 Fantasy                  0.0035
+-                                        Urdu                 Fiction                  0.0059
+-                                        Urdu                 Historical               0.0024
+-                                        Urdu                 Multi-Cultural           0.0008
+-                                        Urdu                 Mystery                  0.0031
+-                                        Urdu                 Poetry                   0.0041
+-                                        Urdu                 Religious                0.0008
+-                                        Urdu                 Romance                  0.0039
+-                                        Urdu                 Science                  0.0068
+-                                        Urdu                 Science Fiction          0.0030
+-                                        Urdu                 Short Stories            0.0008
+-                                        Urdu                 Travel and Adventure     0.0010
+-                                        Urdu                 Western                  0.0008
+-                                        Urdu                 -                        0.0448
+-                                        -                    Children's               0.0219
+-                                        -                    Education                0.1714
+-                                        -                    Fantasy                  0.0776
+-                                        -                    Fiction                  0.1029
+-                                        -                    Historical               0.0503
+-                                        -                    Multi-Cultural           0.0159
+-                                        -                    Mystery                  0.0763
+-                                        -                    Poetry                   0.0776
+-                                        -                    Religious                0.0167
+-                                        -                    Romance                  0.0925
+-                                        -                    Science                  0.1404
+-                                        -                    Science Fiction          0.0611
+-                                        -                    Short Stories            0.0263
+-                                        -                    Travel and Adventure     0.0234
+-                                        -                    Western                  0.0451
+-                                        -                    -                        1.0000
+
+  1018 record(s) selected.
+

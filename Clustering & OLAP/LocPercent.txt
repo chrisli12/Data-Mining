@@ -1,0 +1,28 @@
+
+COUNTRY              PROVINCE             CITY                 PERCENT_OF_ALL PERCENT_IN_GROUP
+-------------------- -------------------- -------------------- -------------- ----------------
+Canada               Ontario              Hamilton                     0.0450           0.1094
+Canada               Ontario              London                       0.0443           0.1078
+Canada               Ontario              Ottawa                       0.0655           0.1593
+Canada               Ontario              Sudbury                      0.0510           0.1239
+Canada               Ontario              Toronto                      0.1618           0.3930
+Canada               Ontario              Windsor                      0.0438           0.1064
+Canada               Ontario              -                            0.4117           0.5553
+Canada               Quebec               Laval                        0.0509           0.1544
+Canada               Quebec               Montreal                     0.1136           0.3447
+Canada               Quebec               Quebec City                  0.0649           0.1970
+Canada               Quebec               Sherbrooke                   0.0493           0.1495
+Canada               Quebec               Trois Rivieres               0.0508           0.1542
+Canada               Quebec               -                            0.3297           0.4446
+Canada               -                    -                            0.7414           0.7414
+USA                  New York             Binghamton                   0.0729           0.2820
+USA                  New York             Buffalo                      0.0412           0.1594
+USA                  New York             New York City                0.0612           0.2370
+USA                  New York             Poughkeepsie                 0.0444           0.1719
+USA                  New York             Rochester                    0.0386           0.1495
+USA                  New York             -                            0.2585           1.0000
+USA                  -                    -                            0.2585           0.2585
+-                    -                    -                            1.0000           1.0000
+
+  22 record(s) selected.
+

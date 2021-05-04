@@ -1,0 +1,54 @@
+
+COUNTRY              PROVINCE             CITY                 GENRE                CUST#       RANK#  SALES         
+-------------------- -------------------- -------------------- -------------------- ----------- ------ --------------
+Canada               Ontario              Hamilton             Education                  45389      1       37705.85
+Canada               Ontario              Hamilton             Education                  66247      2       37124.63
+Canada               Ontario              Hamilton             Education                  96208      3       36721.68
+Canada               Ontario              London               Education                   3509      1       40902.51
+Canada               Ontario              London               Education                  53373      2       38624.02
+Canada               Ontario              London               Education                    318      3       38528.66
+Canada               Ontario              Ottawa               Education                  28588      1       32301.77
+Canada               Ontario              Ottawa               Education                  65750      2       30491.83
+Canada               Ontario              Ottawa               Education                  23295      3       29037.42
+Canada               Ontario              Sudbury              Education                  16089      1       56020.41
+Canada               Ontario              Sudbury              Education                  12687      2       55514.64
+Canada               Ontario              Sudbury              Education                   3877      3       54956.58
+Canada               Ontario              Toronto              Education                  68928      1       26874.74
+Canada               Ontario              Toronto              Education                  68498      2       25965.41
+Canada               Ontario              Toronto              Education                  96935      3       25763.58
+Canada               Ontario              Windsor              Education                  52096      1       45161.26
+Canada               Ontario              Windsor              Education                  23040      2       43752.56
+Canada               Ontario              Windsor              Education                  45290      3       42967.46
+Canada               Quebec               Laval                Education                  38859      1       40278.49
+Canada               Quebec               Laval                Education                  36702      2       37551.59
+Canada               Quebec               Laval                Education                    878      3       36131.68
+Canada               Quebec               Montreal             Education                  36611      1       30533.63
+Canada               Quebec               Montreal             Education                  81430      2       30025.18
+Canada               Quebec               Montreal             Education                  54017      3       29813.44
+Canada               Quebec               Quebec City          Education                   5577      1       35543.81
+Canada               Quebec               Quebec City          Education                   4647      2       35144.64
+Canada               Quebec               Quebec City          Education                  39114      3       33993.92
+Canada               Quebec               Sherbrooke           Education                   1122      1       52013.83
+Canada               Quebec               Sherbrooke           Education                  48677      2       47658.00
+Canada               Quebec               Sherbrooke           Education                  66758      3       46696.89
+Canada               Quebec               Trois Rivieres       Education                   2132      1       55116.24
+Canada               Quebec               Trois Rivieres       Education                  10595      2       54443.85
+Canada               Quebec               Trois Rivieres       Education                  17258      3       52390.20
+USA                  New York             Binghamton           Fiction                      700      1      129467.14
+USA                  New York             Binghamton           Fiction                      310      2       79294.77
+USA                  New York             Binghamton           Fiction                     1422      3       77320.26
+USA                  New York             Buffalo              Fiction                    50151      1       10096.02
+USA                  New York             Buffalo              Fiction                    61787      2        9998.05
+USA                  New York             Buffalo              Fiction                    60481      3        9737.50
+USA                  New York             New York City        Fiction                    87622      1       10406.44
+USA                  New York             New York City        Fiction                    58257      2        8592.08
+USA                  New York             New York City        Fiction                    40713      3        8544.66
+USA                  New York             Poughkeepsie         Fiction                    48171      1       22184.72
+USA                  New York             Poughkeepsie         Fiction                    59563      2       20719.14
+USA                  New York             Poughkeepsie         Fiction                     4109      3       20383.87
+USA                  New York             Rochester            Fiction                     2357      1       10773.58
+USA                  New York             Rochester            Fiction                    46582      2       10712.35
+USA                  New York             Rochester            Fiction                    35590      3       10694.20
+
+  48 record(s) selected.
+

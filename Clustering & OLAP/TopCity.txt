@@ -1,0 +1,62 @@
+
+GENRE                LANGUAGE             RANK#  COUNTRY              PROVINCE             CITY                 SALES         
+-------------------- -------------------- ------ -------------------- -------------------- -------------------- --------------
+Children's           -                         1 Canada               Ontario              Toronto                  3597644.00
+Children's           -                         2 Canada               Quebec               Montreal                 2542434.38
+Education            -                         1 Canada               Ontario              Toronto                 31768727.48
+Education            -                         2 Canada               Quebec               Montreal                22152588.93
+Fantasy              -                         1 Canada               Ontario              Toronto                 15602152.79
+Fantasy              -                         2 Canada               Quebec               Montreal                11152916.76
+Fiction              -                         1 USA                  New York             Binghamton              11852408.31
+Fiction              -                         2 USA                  New York             New York City           10880505.43
+Historical           -                         1 Canada               Ontario              Toronto                 19351532.52
+Historical           -                         2 Canada               Quebec               Montreal                12946587.88
+Multi-Cultural       -                         1 Canada               Ontario              Toronto                 10474784.91
+Multi-Cultural       -                         2 Canada               Quebec               Montreal                 7056488.75
+Mystery              -                         1 USA                  New York             Binghamton               5589269.51
+Mystery              -                         2 Canada               Ontario              Toronto                  5349816.12
+Poetry               -                         1 Canada               Ontario              Toronto                  7711499.82
+Poetry               -                         2 Canada               Quebec               Montreal                 5402928.02
+Religious            -                         1 Canada               Ontario              Toronto                  9398547.15
+Religious            -                         2 Canada               Quebec               Montreal                 6468571.82
+Romance              -                         1 Canada               Ontario              Toronto                 16182048.07
+Romance              -                         2 Canada               Quebec               Montreal                11321857.12
+Science              -                         1 Canada               Ontario              Toronto                 18316920.03
+Science              -                         2 Canada               Quebec               Montreal                13965064.91
+Science Fiction      -                         1 Canada               Ontario              Toronto                  6739312.72
+Science Fiction      -                         2 Canada               Quebec               Montreal                 4783779.10
+Short Stories        -                         1 USA                  New York             Binghamton               5417248.79
+Short Stories        -                         2 USA                  New York             New York City            4700371.15
+Travel and Adventure -                         1 Canada               Ontario              Toronto                  7089872.15
+Travel and Adventure -                         2 Canada               Quebec               Montreal                 4888153.00
+Western              -                         1 Canada               Ontario              Toronto                  4859274.60
+Western              -                         2 Canada               Quebec               Montreal                 3504649.32
+-                    Arabic                    1 Canada               Quebec               Montreal                 2124000.00
+-                    Arabic                    2 Canada               Quebec               Quebec City              1184437.09
+-                    Cantonese                 1 USA                  New York             Binghamton                107078.38
+-                    Cantonese                 2 Canada               Ontario              Toronto                    79992.27
+-                    English                   1 Canada               Ontario              Toronto                108849439.00
+-                    English                   2 USA                  New York             Binghamton              55274697.89
+-                    Farsi                     1 USA                  New York             Binghamton                220748.26
+-                    Farsi                     2 USA                  New York             New York City             177572.45
+-                    French                    1 Canada               Quebec               Montreal                70353326.28
+-                    French                    2 Canada               Quebec               Quebec City             40314421.85
+-                    Hebrew                    1 USA                  New York             Binghamton               4428621.86
+-                    Hebrew                    2 Canada               Quebec               Montreal                 4344458.73
+-                    Italian                   1 Canada               Ontario              Toronto                    37392.44
+-                    Italian                   2 Canada               Ontario              Windsor                    13353.90
+-                    Japanese                  1 Canada               Ontario              Toronto                     6579.42
+-                    Japanese                  2 USA                  New York             Poughkeepsie                3486.57
+-                    Korean                    1 Canada               Ontario              Toronto                   682048.86
+-                    Korean                    2 Canada               Ontario              Ottawa                    295335.33
+-                    Mandarin                  1 Canada               Ontario              Toronto                 15420756.90
+-                    Mandarin                  2 Canada               Ontario              Ottawa                   6160868.31
+-                    Russian                   1 Canada               Quebec               Montreal                 8254128.97
+-                    Russian                   2 Canada               Quebec               Quebec City              4770770.99
+-                    Spanish                   1 USA                  New York             Binghamton              14173028.80
+-                    Spanish                   2 Canada               Quebec               Montreal                13576650.94
+-                    Urdu                      1 Canada               Ontario              Toronto                    15140.06
+-                    Urdu                      2 Canada               Ontario              Windsor                     7601.88
+
+  56 record(s) selected.
+
